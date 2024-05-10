@@ -26,7 +26,3 @@ The project consists of two Verilog modules:
 2. Simulate the project using a Verilog simulator.
 3. Analyze simulation results to verify functionality.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
